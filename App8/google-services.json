@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "135377128426",
+    "firebase_url": "https://infonota-182610.firebaseio.com",
+    "project_id": "infonota-182610",
+    "storage_bucket": "infonota-182610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135377128426:android:5eb5d2dcded4c117",
+        "android_client_info": {
+          "package_name": "infonota.infonota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135377128426-qv9e360spr46285r307h2qed09fg4vf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8KOSKvRapP6rmCn9ZYsWMennlvu09D8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
